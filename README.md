@@ -1,3 +1,3 @@
-# open-archive-core
+# Open Archive White Paper
 
-test update
+Also available at https://openarchive.network
